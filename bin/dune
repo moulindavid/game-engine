@@ -1,0 +1,4 @@
+(executable
+ (public_name game_engine)
+ (name main)
+ (libraries game_engine raylib))
